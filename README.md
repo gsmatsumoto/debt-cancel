@@ -10,6 +10,7 @@ A infraestrutura é provisionada utilizando **Terraform**.
 
 - **Java 21**
 - **Spring Boot 3**
+- **Maven**
 - **Arquitetura Hexagonal**
 - **Docker**
 - **Kubernetes (EKS)**

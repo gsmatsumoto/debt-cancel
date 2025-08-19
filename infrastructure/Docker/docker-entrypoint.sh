@@ -1,0 +1,1 @@
+exec java -jar $APP_CONFIG app.jar --spring.config.location=variables/application.yaml

@@ -1,0 +1,5 @@
+aws:
+  region: us-east-1
+  sqs:
+    queue:
+      url: https://sqs.us-east-1.amazonaws.com/012345678910/cancelamento-debito
